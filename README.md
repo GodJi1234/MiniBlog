@@ -1,1 +1,1 @@
-# Mini_Blog
+# MiniBlog
